@@ -23,7 +23,7 @@ public class RockPaperScissorsApp {
 				
 		AlwaysRock rocPlay = new AlwaysRock("Vonnie");
 		
-		System.out.println("Welcome To Black Paper Sissors!");
+		System.out.println("Welcome To Rock Paper Sissors!");
 		System.out.print("Enter your name: ");
 		name = scnr.nextLine();
 		
